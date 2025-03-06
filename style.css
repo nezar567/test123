@@ -1,5 +1,11 @@
-.body{
-
+body{
     background-color: aquamarine;
-    ;
+    width: 100vw;
+    height: 100vh;
+}
+
+.test h1{
+    display: flex;
+    justify-content: center;
+    color: blue;
 }
